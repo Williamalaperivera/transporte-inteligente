@@ -1,0 +1,25 @@
+origen,destino,distancia_km,hora_pico,clima_lluvioso,tiempo_real_minutos
+Niquia,Bello,2.5,1,0,6
+Bello,Madera,3.0,0,0,4
+Madera,Acevedo,2.8,1,1,7
+Acevedo,Tricentenario,3.5,1,0,8
+Tricentenario,Caribe,2.2,0,0,3
+Caribe,Universidad,2.7,1,0,6
+Universidad,Hospital,1.8,0,0,3
+Hospital,Prado,2.0,1,1,5
+Prado,Parque Berrio,2.1,0,0,3
+Parque Berrio,San Antonio,2.5,1,0,6
+San Antonio,Alpujarra,1.9,0,0,3
+Alpujarra,Exposiciones,2.2,1,0,5
+Exposiciones,Industriales,2.6,0,0,4
+Industriales,Poblado,3.8,1,1,9
+Poblado,Aguacatala,3.2,0,0,4
+Aguacatala,Ayura,2.9,1,0,6
+Ayura,Envigado,3.1,0,0,5
+Envigado,Itagui,3.4,1,1,8
+Itagui,Sabaneta,3.9,0,0,5
+Sabaneta,La Estrella,4.2,1,0,8
+Niquia,Universidad,12.5,1,0,22
+Bello,San Antonio,10.1,0,0,16
+Madera,Poblado,15.3,1,1,28
+Acevedo,La Estrella,20.0,1,0,35
